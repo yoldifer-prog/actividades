@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604282122152CWGFQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428212215YRXCJZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ideas en Movimiento: La Filosofía Hoy</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Actividades</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777404038124</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moipmz7i-kwaic7v9d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción a la filosofía contemporánea y su diversidad</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción a la filosofía contemporánea y su diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción a la filosofía contemporánea y su diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción a la filosofía contemporánea y su diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moipmz7i-kwaic7v9d</odePageId>
+      <odeBlockId>block-1776543929460-1uv55i2ue</odeBlockId>
+      <blockName>Introducción
+a la filosofía contemporánea y su diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moipmz7i-kwaic7v9d</odePageId>
+          <odeBlockId>block-1776543929460-1uv55i2ue</odeBlockId>
+          <odeIdeviceId>idevice-1776543929459-acmawwuvc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta introducción, se pretende que podáis comprender el concepto de filosofía contemporánea y reconocer la falta de visibilidad de las mujeres en la historia del pensamiento.</p>
+<p>A continuación tenéis un vídeo que os proporciona una visión global de la Filosofía actual</p>
+<p style="text-align: center;"><iframe width="300" height="150" src="https://www.youtube.com/embed/Kz7TtNq5zlw?si=IE2r9PY_eAx5FhGc" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776543929459-acmawwuvc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta introducción, se pretende que podáis comprender el concepto de filosofía contemporánea y reconocer la falta de visibilidad de las mujeres en la historia del pensamiento.</p>\n<p>A continuación tenéis un vídeo que os proporciona una visión global de la Filosofía actual</p>\n<p style=\"text-align: center;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/Kz7TtNq5zlw?si=IE2r9PY_eAx5FhGc\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777386182801-n1s429gb3</odePageId>
+  <odeParentPageId>page-moipmz7i-kwaic7v9d</odeParentPageId>
+  <pageName>Actividad 1</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777386182801-n1s429gb3</odePageId>
+      <odeBlockId>block-1777386998265-178g7e383</odeBlockId>
+      <blockName>Lluvia de ideas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777386182801-n1s429gb3</odePageId>
+          <odeBlockId>block-1777386998265-178g7e383</odeBlockId>
+          <odeIdeviceId>idevice-1777386998263-fm9skwgrx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión">1 sesión</span></dt><dd>00:50</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>¿Qué es la filosofía hoy?</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Aquí podéis incluir todas las ideas iniciales que tengáis sobre el significado de la Filosofía en la actualidad. Incluye al menos dos ideas.</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777386998263-fm9skwgrx","textInfoDurationInput":"00:50","textInfoDurationTextInput":"1 sesión","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión\">1 sesión</span></dt><dd>00:50</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>¿Qué es la filosofía hoy?</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Aquí podéis incluir todas las ideas iniciales que tengáis sobre el significado de la Filosofía en la actualidad. Incluye al menos dos ideas.</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Aquí podéis incluir todas las ideas iniciales que tengáis sobre el significado de la Filosofía en la actualidad. Incluye al menos dos ideas.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777386182801-n1s429gb3</odePageId>
+      <odeBlockId>block-1777387529078-y59suz4rr</odeBlockId>
+      <blockName>Análisis</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777386182801-n1s429gb3</odePageId>
+          <odeBlockId>block-1777387529078-y59suz4rr</odeBlockId>
+          <odeIdeviceId>idevice-1777387529079-uyizno5es</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Analiza las siguientes imágenes, incluyendo una reflexión sobre su contenido.</p>
+<p><img src="{{context_path}}/content/resources/Ortega.jpg" width="301" height="168" alt="" />  <img src="{{context_path}}/content/resources/Sartre.jpg" width="271" height="186" alt="" />  <img src="{{context_path}}/content/resources/Judith butler.jpg" width="259" height="194" alt="" />    <img src="{{context_path}}/content/resources/Heiddeger.jpg" width="311" height="162" alt="" />   <img src="{{context_path}}/content/resources/H Arendt.jpg" width="259" height="194" alt="" />    <img src="{{context_path}}/content/resources/BCH Han.jpg" width="225" height="225" alt="" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Incluye los comentarios de cada cita aquí:</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777387529079-uyizno5es","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Analiza las siguientes imágenes, incluyendo una reflexión sobre su contenido.</p>\n<p><img src=\"{{context_path}}/content/resources/Ortega.jpg\" width=\"301\" height=\"168\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/Sartre.jpg\" width=\"271\" height=\"186\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/Judith butler.jpg\" width=\"259\" height=\"194\" alt=\"\" />    <img src=\"{{context_path}}/content/resources/Heiddeger.jpg\" width=\"311\" height=\"162\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/H Arendt.jpg\" width=\"259\" height=\"194\" alt=\"\" />    <img src=\"{{context_path}}/content/resources/BCH Han.jpg\" width=\"225\" height=\"225\" alt=\"\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Incluye los comentarios de cada cita aquí:</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Incluye los comentarios de cada cita aquí:</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moipmz7m-ldss3bvlu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Quiénes son las filósofas contemporáneas? Primeras aproximaciones</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Quiénes son las filósofas contemporáneas? Primeras aproximaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Quiénes son las filósofas contemporáneas? Primeras aproximaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moipmz7m-ldss3bvlu</odePageId>
+      <odeBlockId>block-1777387786608-c50ysyr5h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moipmz7m-ldss3bvlu</odePageId>
+          <odeBlockId>block-1777387786608-c50ysyr5h</odeBlockId>
+          <odeIdeviceId>idevice-1777387786606-wkv7v27zo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Contextualizar las corrientes filosóficas actuales (ética aplicada, filosofía política, feminismo, postestructuralismo, etc.). Identificar a distintas/os filósofas/os contemporáneas/os y sus campos de pensamiento. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777387786606-wkv7v27zo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Contextualizar las corrientes filosóficas actuales (ética aplicada, filosofía política, feminismo, postestructuralismo, etc.). Identificar a distintas/os filósofas/os contemporáneas/os y sus campos de pensamiento. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777386192303-hfbgovvmy</odePageId>
+  <odeParentPageId>page-moipmz7m-ldss3bvlu</odeParentPageId>
+  <pageName>Actividad 2</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777386192303-hfbgovvmy</odePageId>
+      <odeBlockId>block-1777393327358-i1weadpnr</odeBlockId>
+      <blockName>Investigación Filósofas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777386192303-hfbgovvmy</odePageId>
+          <odeBlockId>block-1777393327358-i1weadpnr</odeBlockId>
+          <odeIdeviceId>idevice-1777393327356-e3a2j1exg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión">1 sesión</span></dt><dd>00:50</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>1. Exposición inicial breve sobre la invisibilización histórica de las mujeres en la filosofía </p>
+<p><br /></p>
+<p style="text-align: center;"><iframe width="300" height="150" src="https://www.youtube.com/embed/ZAXH4Er9dZc?si=Lzs24kuQlp3H7VXi" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;">2. Lectura de fichas breves de filósofas:</p>
+<p style="text-align: center;"><video width="300" height="150" controls="controls">
+<source src="{{context_path}}/content/resources/Filósofas (In)Visibles.mp4" type="video/mp4" /></video></p>
+<p style="text-align: left;">3. Trabajo en parejas.</p>
+<p style="text-align: left;">En parejas vais a elegir una de las filósofas que aparecen en las fichas para realizar una investigación sobre su vida y obra:</p>
+<p>-Biografía breve.<br />-Contexto filosófico y social.<br />-Conceptos clave o aportaciones relevantes.<br />-Una cita destacada.</p>
+<p>4. Recursos adicionales:</p>
+<p><a href="https://padlet.com/yoldifer/mujeres-en-la-filosofia-dg1e18lnrvm7vi8j" target="_blank" title="" rel="noopener">Mujeres en la Filosofía</a></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Aquí adjuntaréis el documento con vuestra investigación.</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777393327356-e3a2j1exg","textInfoDurationInput":"00:50","textInfoDurationTextInput":"1 sesión","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión\">1 sesión</span></dt><dd>00:50</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>1. Exposición inicial breve sobre la invisibilización histórica de las mujeres en la filosofía </p>\n<p><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/ZAXH4Er9dZc?si=Lzs24kuQlp3H7VXi\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: left;\">2. Lectura de fichas breves de filósofas:</p>\n<p style=\"text-align: center;\"><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/Filósofas (In)Visibles.mp4\" type=\"video/mp4\" /></video></p>\n<p style=\"text-align: left;\">3. Trabajo en parejas.</p>\n<p style=\"text-align: left;\">En parejas vais a elegir una de las filósofas que aparecen en las fichas para realizar una investigación sobre su vida y obra:</p>\n<p>-Biografía breve.<br />-Contexto filosófico y social.<br />-Conceptos clave o aportaciones relevantes.<br />-Una cita destacada.</p>\n<p>4. Recursos adicionales:</p>\n<p><a href=\"https://padlet.com/yoldifer/mujeres-en-la-filosofia-dg1e18lnrvm7vi8j\" target=\"_blank\" title=\"\" rel=\"noopener\">Mujeres en la Filosofía</a></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Aquí adjuntaréis el documento con vuestra investigación.</p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Aquí adjuntaréis el documento con vuestra investigación.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moipmz7m-lc06xq8yr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Investigación guiada</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación guiada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigación guiada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777394758404-f6l52avam</odePageId>
+  <odeParentPageId>page-moipmz7m-lc06xq8yr</odeParentPageId>
+  <pageName>Actividad 3</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777394758404-f6l52avam</odePageId>
+      <odeBlockId>block-1777394798341-f0qyp23sr</odeBlockId>
+      <blockName>Infografía Interactiva</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777394758404-f6l52avam</odePageId>
+          <odeBlockId>block-1777394798341-f0qyp23sr</odeBlockId>
+          <odeIdeviceId>idevice-1777394798339-hr2yika6v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="2 sesiones">2 sesiones</span></dt><dd>01:40</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p><span style="text-decoration: underline;"><strong>TAREA:</strong></span></p>
+<p>Con todo lo trabajado en los apartados anteriores, y con las actividades iniciales ya realizadas, vais a realizar una infografía interactiva de la Filósofa sobre la que habéis realizado vuestra investigación.</p>
+<p><span style="text-decoration: underline;"><strong>RECURSOS:</strong></span></p>
+<p>Podéis realizar al infografía con las aplicaciones <a href="https://www.canva.com/es_es/" target="_blank" title="" rel="noopener">Canva</a> o <a href="https://app.genially.com/?from=login-true" target="_blank" rel="noopener">Genially</a>.</p>
+<p>Para diseñar la infografía podéis utilizar este tutorial de <a href="https://youtu.be/MKadmIqWUeM?si=Gq1IUJ5aKPNh0m0I" target="_blank" title="" rel="noopener">Canva</a> o este otro de <a href="https://youtu.be/ouUGp0UJl9M?si=tyoVLn1ilkkvvZ_O" target="_blank" title="" rel="noopener">Genially</a></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394798339-hr2yika6v","textInfoDurationInput":"01:40","textInfoDurationTextInput":"2 sesiones","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"2 sesiones\">2 sesiones</span></dt><dd>01:40</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p><span style=\"text-decoration: underline;\"><strong>TAREA:</strong></span></p>\n<p>Con todo lo trabajado en los apartados anteriores, y con las actividades iniciales ya realizadas, vais a realizar una infografía interactiva de la Filósofa sobre la que habéis realizado vuestra investigación.</p>\n<p><span style=\"text-decoration: underline;\"><strong>RECURSOS:</strong></span></p>\n<p>Podéis realizar al infografía con las aplicaciones <a href=\"https://www.canva.com/es_es/\" target=\"_blank\" title=\"\" rel=\"noopener\">Canva</a> o <a href=\"https://app.genially.com/?from=login-true\" target=\"_blank\" rel=\"noopener\">Genially</a>.</p>\n<p>Para diseñar la infografía podéis utilizar este tutorial de <a href=\"https://youtu.be/MKadmIqWUeM?si=Gq1IUJ5aKPNh0m0I\" target=\"_blank\" title=\"\" rel=\"noopener\">Canva</a> o este otro de <a href=\"https://youtu.be/ouUGp0UJl9M?si=tyoVLn1ilkkvvZ_O\" target=\"_blank\" title=\"\" rel=\"noopener\">Genially</a></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777394758404-f6l52avam</odePageId>
+      <odeBlockId>block-1777395942237-l9fpylx7i</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777394758404-f6l52avam</odePageId>
+          <odeBlockId>block-1777395942237-l9fpylx7i</odeBlockId>
+          <odeIdeviceId>idevice-1777395942235-05bi1ceml</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777395942235-05bi1ceml%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20una%20infograf%EDa%22%2C%22categories%22%3A%5B%22Patr%F3n%20organizativo%22%2C%22Dise%F1o%22%2C%22Contenido%22%2C%22Elementos%20visuales%22%2C%22Correcci%F3n%20ling%FC%EDstica%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Est%E1n%20presentes%20todos%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20y%20cr%E9ditos%29%2C%20existe%20un%20equilibrio%20perfecto%20entre%20el%20texto%20y%20la%20imagen.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Est%E1n%20presentes%20todos%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20y%20cr%E9ditos%29%2C%20la%20informaci%F3n%20visual%20y%20textual%20est%E1n%20bastante%20bien%20%20equilibradas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Falta%20alguno%20de%20los%20elementos%20caracter%EDsticos%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20o%20cr%E9ditos%29%20y/o%20no%20existe%20un%20buen%20equilibrio%20entre%20la%20informaci%F3n%20visual%20y%20%20textual.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Solo%20presenta%20uno%20o%20dos%20de%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20o%20cr%E9ditos%29%20y/o%20la%20informaci%F3n%20visual%20y%20textual%20no%20est%E1%20equilibrada.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20muy%20atractiva%2C%20la%20combinaci%F3n%20de%20colores%20es%20muy%20arm%F3nica%20y%20la%20tipograf%EDa%20empleada%20es%20legible%20y%20muy%20apropiada.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20bastante%20atractiva%2C%20la%20combinaci%F3n%20de%20colores%20es%20adecuada%20y%20la%20tipograf%EDa%20empleada%20es%20legible%20y%20apropiada.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20poco%20atractiva%2C%20los%20colores%20no%20se%20combinan%20de%20una%20manera%20demasiado%20arm%F3nica%20y/o%20la%20tipograf%EDa%20no%20es%20la%20m%E1s%20apropiada.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20visualmente%20nada%20atractiva%2C%20los%20colores%20no%20se%20combinan%20de%20manera%20arm%F3nica%20y/o%20la%20tipograf%EDa%20empleada%20es%20inapropiada%20y%20poco%20legible.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20aparecen%20recogidos%20con%20mucha%20claridad%20%20todos%20y%20cada%20uno%20de%20los%20conceptos%20e%20ideas%20%20claves%20del%20tema.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20%20aparecen%20recogidas%20con%20bastante%20claridad%20todas%20o%20la%20mayor%20parte%20de%20las%20ideas%20claves%20del%20tema.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparecen%20recogidas%20todas%20las%20ideas%20claves%20del%20tema%20pero%20s%ED%20las%20m%E1s%20relevantes.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20se%20reflejan%20la%20mayor%20parte%20de%20las%20ideas%20fundamentales%20del%20tema.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todas%20las%20im%E1genes%20empleadas%20tienen%20licencia%20CC%2C%20poseen%20unas%20dimensiones%20perfectas%20y%20apoyan%20con%20total%20claridad%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Todas%20las%20im%E1genes%20empleadas%20tienen%20una%20licencia%20CC%2C%20poseen%20unas%20dimensiones%20adecuadas%20y%20apoyan%20con%20claridad%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20todas%20las%20im%E1genes%20empleadas%20tienen%20licencia%20CC.%20Adem%E1s%2C%20alguna%20de%20ellas%20no%20posee%20las%20dimensiones%20adecuadas%20y/o%20no%20apoya%20de%20una%20manera%20clara%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%20parte%20de%20las%20im%E1genes%20no%20tienen%20licencia%20CC%2C%20no%20poseen%20unas%20dimensiones%20adecuadas%20y%20no%20se%20adec%FAan%20al%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22No%20se%20aprecian%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20ni%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Aparecen%20uno%20o%20dos%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Aparecen%20tres%20o%20cuatro%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Aparecen%20cinco%20o%20m%E1s%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20una%20infograf%EDa%22%2C%22categories%22%3A%5B%22Patr%F3n%20organizativo%22%2C%22Dise%F1o%22%2C%22Contenido%22%2C%22Elementos%20visuales%22%2C%22Correcci%F3n%20ling%FC%EDstica%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Est%E1n%20presentes%20todos%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20y%20cr%E9ditos%29%2C%20existe%20un%20equilibrio%20perfecto%20entre%20el%20texto%20y%20la%20imagen.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Est%E1n%20presentes%20todos%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20y%20cr%E9ditos%29%2C%20la%20informaci%F3n%20visual%20y%20textual%20est%E1n%20bastante%20bien%20%20equilibradas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Falta%20alguno%20de%20los%20elementos%20caracter%EDsticos%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20o%20cr%E9ditos%29%20y/o%20no%20existe%20un%20buen%20equilibrio%20entre%20la%20informaci%F3n%20visual%20y%20%20textual.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Solo%20presenta%20uno%20o%20dos%20de%20los%20elementos%20propios%20de%20una%20infograf%EDa%20%28t%EDtulo%2C%20cuerpo%2C%20fuentes%20o%20cr%E9ditos%29%20y/o%20la%20informaci%F3n%20visual%20y%20textual%20no%20est%E1%20equilibrada.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20muy%20atractiva%2C%20la%20combinaci%F3n%20de%20colores%20es%20muy%20arm%F3nica%20y%20la%20tipograf%EDa%20empleada%20es%20legible%20y%20muy%20apropiada.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20bastante%20atractiva%2C%20la%20combinaci%F3n%20de%20colores%20es%20adecuada%20y%20la%20tipograf%EDa%20empleada%20es%20legible%20y%20apropiada.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20manera%20visualmente%20poco%20atractiva%2C%20los%20colores%20no%20se%20combinan%20de%20una%20manera%20demasiado%20arm%F3nica%20y/o%20la%20tipograf%EDa%20no%20es%20la%20m%E1s%20apropiada.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20distribuida%20de%20una%20visualmente%20nada%20atractiva%2C%20los%20colores%20no%20se%20combinan%20de%20manera%20arm%F3nica%20y/o%20la%20tipograf%EDa%20empleada%20es%20inapropiada%20y%20poco%20legible.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20aparecen%20recogidos%20con%20mucha%20claridad%20%20todos%20y%20cada%20uno%20de%20los%20conceptos%20e%20ideas%20%20claves%20del%20tema.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20%20aparecen%20recogidas%20con%20bastante%20claridad%20todas%20o%20la%20mayor%20parte%20de%20las%20ideas%20claves%20del%20tema.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20aparecen%20recogidas%20todas%20las%20ideas%20claves%20del%20tema%20pero%20s%ED%20las%20m%E1s%20relevantes.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22En%20la%20infograf%EDa%20no%20se%20reflejan%20la%20mayor%20parte%20de%20las%20ideas%20fundamentales%20del%20tema.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Todas%20las%20im%E1genes%20empleadas%20tienen%20licencia%20CC%2C%20poseen%20unas%20dimensiones%20perfectas%20y%20apoyan%20con%20total%20claridad%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Todas%20las%20im%E1genes%20empleadas%20tienen%20una%20licencia%20CC%2C%20poseen%20unas%20dimensiones%20adecuadas%20y%20apoyan%20con%20claridad%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20todas%20las%20im%E1genes%20empleadas%20tienen%20licencia%20CC.%20Adem%E1s%2C%20alguna%20de%20ellas%20no%20posee%20las%20dimensiones%20adecuadas%20y/o%20no%20apoya%20de%20una%20manera%20clara%20el%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20mayor%20parte%20de%20las%20im%E1genes%20no%20tienen%20licencia%20CC%2C%20no%20poseen%20unas%20dimensiones%20adecuadas%20y%20no%20se%20adec%FAan%20al%20mensaje%20que%20se%20quiere%20transmitir.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22No%20se%20aprecian%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20ni%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Aparecen%20uno%20o%20dos%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Aparecen%20tres%20o%20cuatro%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Aparecen%20cinco%20o%20m%E1s%20errores%20ortogr%E1ficos%2C%20morfosint%E1cticos%20o%20de%20puntuaci%F3n.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar una infografía</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moipmz7m-ez0bl6owo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La Filosofía en el S. XX y la defensa del pensamiento en el presente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La Filosofía en el S. XX y la defensa del pensamiento en el presente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La defensa del pensamiento en el presente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La Filosofía en el S. XX y la defensa del pensamiento en el presente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moipmz7m-ez0bl6owo</odePageId>
+      <odeBlockId>block-1776544093172-qstqq61mt</odeBlockId>
+      <blockName>La Filosofía en el S. XX</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moipmz7m-ez0bl6owo</odePageId>
+          <odeBlockId>block-1776544093172-qstqq61mt</odeBlockId>
+          <odeIdeviceId>idevice-1776544093171-zcflvfiir</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión">1 sesión</span></dt><dd>00:50</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>A comienzos del siglo XX, la filosofía se enfrenta a una profunda crisis provocada por los grandes cambios históricos, científicos y sociales de la época. Las dos guerras mundiales, el avance de la ciencia y la técnica, la industrialización y la pérdida de confianza en la razón como solución universal hacen que muchos pensadores cuestionen las ideas tradicionales de la filosofía moderna. Frente al optimismo racionalista de siglos anteriores, surge una reflexión más centrada en la existencia concreta del ser humano, su libertad, su angustia y su forma de comprender el mundo. En este contexto aparecen nuevas corrientes filosóficas como la fenomenología de Edmund Husserl, el existencialismo de Martin Heidegger y Jean-Paul Sartre, y la hermenéutica de Hans-Georg Gadamer. Todas ellas comparten el interés por comprender mejor al ser humano y su experiencia vital, alejándose de los sistemas abstractos para centrarse en la realidad concreta de la vida.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776544093171-zcflvfiir","textInfoDurationInput":"00:50","textInfoDurationTextInput":"1 sesión","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión\">1 sesión</span></dt><dd>00:50</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>A comienzos del siglo XX, la filosofía se enfrenta a una profunda crisis provocada por los grandes cambios históricos, científicos y sociales de la época. Las dos guerras mundiales, el avance de la ciencia y la técnica, la industrialización y la pérdida de confianza en la razón como solución universal hacen que muchos pensadores cuestionen las ideas tradicionales de la filosofía moderna. Frente al optimismo racionalista de siglos anteriores, surge una reflexión más centrada en la existencia concreta del ser humano, su libertad, su angustia y su forma de comprender el mundo. En este contexto aparecen nuevas corrientes filosóficas como la fenomenología de Edmund Husserl, el existencialismo de Martin Heidegger y Jean-Paul Sartre, y la hermenéutica de Hans-Georg Gadamer. Todas ellas comparten el interés por comprender mejor al ser humano y su experiencia vital, alejándose de los sistemas abstractos para centrarse en la realidad concreta de la vida.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777396574699-s1uy6s7bw</odePageId>
+  <odeParentPageId>page-moipmz7m-ez0bl6owo</odeParentPageId>
+  <pageName>Actividad 4</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777396574699-s1uy6s7bw</odePageId>
+      <odeBlockId>block-1777396948651-0jn80slr7</odeBlockId>
+      <blockName>Corrientes filosóficas desde el S. XX</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777396574699-s1uy6s7bw</odePageId>
+          <odeBlockId>block-1777396948651-0jn80slr7</odeBlockId>
+          <odeIdeviceId>idevice-1777396948650-ejk3uqiq0</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Lectura de los siguientes recursos teóricos:</p>
+<p>- <a href="https://www.womenshistory.org/exhibits/feminismo-la-segunda-ola" target="_blank" title="" rel="noopener">Segunda ola del feminismo y sus desarrollos contemporáneos</a><br>- <a href="https://violetavarelaalvarez.blogspot.com/2010/04/fenomenologia-existencialismo-y.html" target="_blank" rel="noopener">Fenomenología, existencialismo y hermenéutica en el siglo XX</a><br>- <a href="https://urbinavolant.com/pragmaubu/2016/03/13/la-filosofia-del-lenguaje-en-el-siglo-xx/" target="_blank" title="" rel="noopener">Filosofía del lenguaje y analítica del siglo XX</a></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777396574699-s1uy6s7bw</odePageId>
+      <odeBlockId>block-1777398428076-0ensct6jc</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777396574699-s1uy6s7bw</odePageId>
+          <odeBlockId>block-1777398428076-0ensct6jc</odeBlockId>
+          <odeIdeviceId>idevice-1777398428074-2rc6tn1cx</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1777398428074-2rc6tn1cx" data-evaluationb="false" data-evaluationid="e57efd7a-b257-49d8-b982-8144dfb314d8"></div>
+            <div id="frmMainContainer-idevice-1777398428074-2rc6tn1cx" class="form-IDevice" data-id="idevice-1777398428074-2rc6tn1cx">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1777398428074-2rc6tn1cx">10:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1777398428074-2rc6tn1cx" style="display:flex;">
+                      <button  id="frmStartGame-idevice-1777398428074-2rc6tn1cx" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1777398428074-2rc6tn1cx" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1777398428074-2rc6tn1cx" > </div>
+                        <div id="frmCover-idevice-1777398428074-2rc6tn1cx" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1777398428074-2rc6tn1cx" class="form-results-container inline">
+                        <div id="form-score-idevice-1777398428074-2rc6tn1cx" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1777398428074-2rc6tn1cx" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1777398428074-2rc6tn1cx" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1777398428074-2rc6tn1cx" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1777398428074-2rc6tn1cx" type="button" value="Reiniciar"
+                            data-id="idevice-1777398428074-2rc6tn1cx" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1777398428074-2rc6tn1cx" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1777398428074-2rc6tn1cx" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1777398428074-2rc6tn1cx" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398428074-2rc6tn1cx","evaluation":false,"evaluationID":"e57efd7a-b257-49d8-b982-8144dfb314d8","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1777398428074-2rc6tn1cx","questionsRandom":false,"percentageQuestions":"100","time":"10","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1777398560884-68B56","activityType":"true-false","baseText":"<p>¿Wittgenstein es uno de los principales representantes de la Filosofía del Lenguaje del S. XX?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777398725748-9H4AZ","activityType":"selection","baseText":"<p>¿Quién es el autor del Tractatus Logico-Philosophicus?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Gottlob Frege"],[true,"Ludwig Wittgenstein"],[false,"Bertrand Russell"],[false,"John Searle"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777399220875-VNYB8","activityType":"dropdown","baseText":"<p>La hermenéutica es la filosofía de la interpretación.</p>\n<p>Su objetivo es comprender el sentido de <u>los textos, la historia y la experiencia humana</u>.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"el arte y la religión","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777399438291-A8YUA","activityType":"dropdown","baseText":"<p>La fenomenología busca estudiar los fenómenos tal y como aparecen en la <u>conciencia</u>, sin prejuicios ni teorías previas</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"vista","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777399518091-FSEU8","activityType":"selection","baseText":"<p>Comienzo de la Segunda Ola Feminista</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1960"],[false,"1920"],[false,"1969"],[false,"1930"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777399588003-89WQ5","activityType":"true-false","baseText":"<p>Simone de Beauvoir es la autora del <em>Segundo Sexo</em></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moipmz7m-prt3mrhxm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La Filosofía en el S. XX: Aplicación actual y evaluación crítica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La Filosofía en el S. XX: Aplicación actual y evaluación crítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación actual y evaluación crítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La Filosofía en el S. XX: Aplicación actual y evaluación crítica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moipmz7m-prt3mrhxm</odePageId>
+      <odeBlockId>block-1777399612396-nhoe1rn25</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moipmz7m-prt3mrhxm</odePageId>
+          <odeBlockId>block-1777399612396-nhoe1rn25</odeBlockId>
+          <odeIdeviceId>idevice-1777399612394-4qdoj9e2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La filosofía sigue teniendo una gran aplicación en la actualidad porque ayuda a reflexionar de forma crítica sobre los problemas del mundo contemporáneo, como la desigualdad, el uso de la tecnología, la inteligencia artificial, la bioética o la crisis medioambiental. Nos permite cuestionar ideas aceptadas, analizar valores y tomar decisiones más responsables. Además, fomenta el pensamiento autónomo y la capacidad de argumentar. Sin embargo, también recibe críticas por considerarse demasiado teórica o alejada de los problemas prácticos. Aun así, su valor principal está en enseñar a pensar, interpretar la realidad y buscar respuestas razonadas ante los grandes desafíos de la sociedad actual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777399612394-4qdoj9e2w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La filosofía sigue teniendo una gran aplicación en la actualidad porque ayuda a reflexionar de forma crítica sobre los problemas del mundo contemporáneo, como la desigualdad, el uso de la tecnología, la inteligencia artificial, la bioética o la crisis medioambiental. Nos permite cuestionar ideas aceptadas, analizar valores y tomar decisiones más responsables. Además, fomenta el pensamiento autónomo y la capacidad de argumentar. Sin embargo, también recibe críticas por considerarse demasiado teórica o alejada de los problemas prácticos. Aun así, su valor principal está en enseñar a pensar, interpretar la realidad y buscar respuestas razonadas ante los grandes desafíos de la sociedad actual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777396588866-rv91alanl</odePageId>
+  <odeParentPageId>page-moipmz7m-prt3mrhxm</odeParentPageId>
+  <pageName>Actividad 5</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777396588866-rv91alanl</odePageId>
+      <odeBlockId>block-1777396675117-oicoeer2h</odeBlockId>
+      <blockName>Video presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777396588866-rv91alanl</odePageId>
+          <odeBlockId>block-1777396675117-oicoeer2h</odeBlockId>
+          <odeIdeviceId>idevice-1777396675114-rsll4igz3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="3 sesiones">3 sesiones</span></dt><dd>02:30</dd></div><div class="inline"><dt><span title=""></span></dt><dd>Individual</dd></div></dl><p>En esta tarea, crearás una presentación en vídeo que explora un tema relevante de la Filosofía del siglo XX. Elegirás uno de los temas proporcionados y presentarás tus hallazgos de forma clara y atractiva.</p>
+<p>Selecciona uno de los siguientes temas para tu presentación en vídeo:</p>
+<p>-<strong>Segunda ola del feminismo y sus desarrollos contemporáneos</strong>: Explora las ideas clave e impactos de la segunda ola del feminismo y cómo ha evolucionado en tiempos modernos.<br />-<strong>Fenomenología, existencialismo y hermenéutica en el siglo XX</strong>: Discute estos movimientos filosóficos y su importancia durante el siglo XX.<br />-<strong>Filosofía del lenguaje y analítica del siglo XX</strong>: Analizar cómo el lenguaje y la filosofía analítica moldearon el pensamiento filosófico en el siglo XX.</p>
+<p><br />La presentación en vídeo debe incluir los siguientes elementos:</p>
+<p>1. <strong>Contexto histórico</strong><br />Proporcionar información de contexto sobre el periodo relacionado con el tema elegido. Explica por qué este contexto es importante para entender los desarrollos filosóficos.<br />2. <strong>Punto de partida y objetivo</strong><br />Describe las ideas o eventos iniciales que llevaron a la aparición del tema elegido. ¿Cuál era el objetivo principal o propósito de este movimiento filosófico?<br />3. <strong>Corriente o corrientes filosóficas elegidas</strong><br />Definir claramente la(s) corriente(s) filosófica(s) de las que hablas. ¿Cuáles son las ideas o principios principales que caracterizan estas filosofías?<br />4.<strong> Autores Representativos</strong><br />Identificar y debatir  filósofos/as clave asociados con el tema que elijas. ¿Qué contribuciones hicieron al campo?<br />5. <strong>Reflexión o evaluación</strong><br />Comparte tus opiniones sobre el tema. ¿Qué opinas sobre el impacto de este movimiento filosófico? ¿Cómo se relaciona con los temas contemporáneos?</p>
+<p><br />Tenéis que adjuntar un documento con la webgrafía o fuentes de consulta.</p>
+<p>El vídeo debe durar entre 5 y 10 minutos, utilizando los recursos que consideres oportunos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777396675114-rsll4igz3","textInfoDurationInput":"02:30","textInfoDurationTextInput":"3 sesiones","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"3 sesiones\">3 sesiones</span></dt><dd>02:30</dd></div><div class=\"inline\"><dt><span title=\"\"></span></dt><dd>Individual</dd></div></dl><p>En esta tarea, crearás una presentación en vídeo que explora un tema relevante de la Filosofía del siglo XX. Elegirás uno de los temas proporcionados y presentarás tus hallazgos de forma clara y atractiva.</p>\n<p>Selecciona uno de los siguientes temas para tu presentación en vídeo:</p>\n<p>-<strong>Segunda ola del feminismo y sus desarrollos contemporáneos</strong>: Explora las ideas clave e impactos de la segunda ola del feminismo y cómo ha evolucionado en tiempos modernos.<br />-<strong>Fenomenología, existencialismo y hermenéutica en el siglo XX</strong>: Discute estos movimientos filosóficos y su importancia durante el siglo XX.<br />-<strong>Filosofía del lenguaje y analítica del siglo XX</strong>: Analizar cómo el lenguaje y la filosofía analítica moldearon el pensamiento filosófico en el siglo XX.</p>\n<p><br />La presentación en vídeo debe incluir los siguientes elementos:</p>\n<p>1. <strong>Contexto histórico</strong><br />Proporcionar información de contexto sobre el periodo relacionado con el tema elegido. Explica por qué este contexto es importante para entender los desarrollos filosóficos.<br />2. <strong>Punto de partida y objetivo</strong><br />Describe las ideas o eventos iniciales que llevaron a la aparición del tema elegido. ¿Cuál era el objetivo principal o propósito de este movimiento filosófico?<br />3. <strong>Corriente o corrientes filosóficas elegidas</strong><br />Definir claramente la(s) corriente(s) filosófica(s) de las que hablas. ¿Cuáles son las ideas o principios principales que caracterizan estas filosofías?<br />4.<strong> Autores Representativos</strong><br />Identificar y debatir  filósofos/as clave asociados con el tema que elijas. ¿Qué contribuciones hicieron al campo?<br />5. <strong>Reflexión o evaluación</strong><br />Comparte tus opiniones sobre el tema. ¿Qué opinas sobre el impacto de este movimiento filosófico? ¿Cómo se relaciona con los temas contemporáneos?</p>\n<p><br />Tenéis que adjuntar un documento con la webgrafía o fuentes de consulta.</p>\n<p>El vídeo debe durar entre 5 y 10 minutos, utilizando los recursos que consideres oportunos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777396588866-rv91alanl</odePageId>
+      <odeBlockId>block-1777396796924-mt11noupo</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777396588866-rv91alanl</odePageId>
+          <odeBlockId>block-1777396796924-mt11noupo</odeBlockId>
+          <odeIdeviceId>idevice-1777396796923-mjee1rjbg</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777396796923-mjee1rjbg%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20elaboraci%F3n%20de%20un%20v%EDdeo%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Originalidad%22%2C%22Vocabulario%20/%20Uso%20del%20lenguaje%22%2C%22Mensaje%22%2C%22Grabaci%F3n%20y%20edici%F3n%20del%20v%EDdeo%22%2C%22Planificaci%F3n%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Cubre%20los%20temas%20con%20profundidad%2C%20utilizando%20detalles%20y%20ejemplos.%20El%20conocimiento%20del%20tema%20es%20excelente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Incluye%20un%20conocimiento%20b%E1sico%20sobre%20el%20tema.%20El%20contenido%20parece%20ser%20bueno.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Incluye%20informaci%F3n%20esencial%20sobre%20el%20tema%2C%20pero%20tiene%20dos%20errores%20en%20los%20hechos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20contenido%20es%20m%EDnimo%20y%20tiene%20varios%20errores%20en%20los%20hechos.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20producto%20demuestra%20gran%20originalidad.%20Las%20ideas%20son%20creativas%20e%20ingeniosas.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20producto%20demuestra%20cierta%20originalidad.%20El%20trabajo%20demuestra%20el%20uso%20de%20nuevas%20ideas%20y%20de%20perspicacia.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20ideas%20de%20otras%20personas%20%28%20d%E1ndoles%20cr%E9dito%20%29%20pero%20no%20hay%20casi%20evidencia%20de%20ideas%20originales.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20ideas%20de%20otras%20personas%20pero%20no%20les%20da%20cr%E9dito.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22No%20hay%20faltas%20de%20ortograf%EDa%20ni%20errores%20gramaticales.%20Vocabulario%20muy%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Tres%20o%20menos%20faltas%20ortogr%E1ficas%20y/%20gramaticales.%20Vocabulario%20bastante%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Cuatro%20errores%20de%20ortograf%EDa%20y/o%20errores%20gramaticales.%20Vocabulario%20no%20demasiado%20apropiado%20para%20el%20tema%20y%20audiencia.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22M%E1s%20de%20cuatro%20errores%20ortogr%E1ficos%20y/o%20gramaticales.%20Vocabulario%20nada%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20mensaje%20es%20perfectamente%20comprensible%2C%20realizado%20en%20un%20volumen%20alto%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20mensaje%20es%20bastante%20comprensible%2C%20realizado%20en%20un%20volumen%20medio%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20bastante%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20demasiado%20comprensible.%20El%20volumen%20es%20excesivamente%20alto%20o%20apenas%20audible.%20No%20es%20realizado%20con%20demasiada%20seguridad%20y%20la%20informaci%F3n%20es%20ambigua.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20nada%20comprensible.%20El%20volumen%20es%20inadecuado%20por%20exceso%20o%20defecto.%20No%20es%20realizado%20con%20ninguna%20seguridad%20y%20la%20informaci%F3n%20es%20transmitida%20ausente%20de%20claridad.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Diferentes%20tomas%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20etc.%2C%20proporcionando%20variedad%20al%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20enfoque%20fue%20excelente%20en%20todas%20sus%20partes.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%223-4%20tomas%20diferentes%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20etc.%2C%20proporcionando%20variedad%20al%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20enfoque%20fue%20excelente%20en%20casi%20todas%20sus%20partes.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%221-2%20tomas%20diferentes%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20proporcionando%20variedad%20en%20el%20v%EDdeo.%20La%20calidad%20no%20es%20muy%20buena%20pero%20el%20enfoque%20fue%20excelente%20en%20todas%20las%20partes%20del%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Poco%20esfuerzo%20para%20proporcionar%20variedad%20en%20el%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20el%20enfoque%20no%20es%20muy%20bueno.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Existe%20una%20excelente%20labor%20de%20planificaci%F3n%20con%20un%20gui%F3n%20previo%20y%20se%20percibe%20que%20hab%EDan%20hecho%20suficientes%20ensayos%20antes%20de%20la%20grabaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20detecta%20que%20ha%20habido%20planificaci%F3n%20pero%20se%20detecta%20que%20en%20algunos%20momentos%20se%20improvisa%20con%20no%20demasiado%20acierto.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20ha%20habido%20suficiente%20planificaci%F3n%20y%20se%20ha%20improvisado%20desafortunadamente%20en%20muchos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20ha%20habido%20planificaci%F3n%20alguna.%20El%20v%EDdeo%20ha%20sido%20totalmente%20improvisado.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20para%20evaluar%20la%20elaboraci%F3n%20de%20un%20v%EDdeo%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Originalidad%22%2C%22Vocabulario%20/%20Uso%20del%20lenguaje%22%2C%22Mensaje%22%2C%22Grabaci%F3n%20y%20edici%F3n%20del%20v%EDdeo%22%2C%22Planificaci%F3n%22%5D%2C%22scores%22%3A%5B%224%20Excelente%22%2C%223%20Satisfactorio%22%2C%222%20Mejorable%22%2C%221%20Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Cubre%20los%20temas%20con%20profundidad%2C%20utilizando%20detalles%20y%20ejemplos.%20El%20conocimiento%20del%20tema%20es%20excelente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Incluye%20un%20conocimiento%20b%E1sico%20sobre%20el%20tema.%20El%20contenido%20parece%20ser%20bueno.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Incluye%20informaci%F3n%20esencial%20sobre%20el%20tema%2C%20pero%20tiene%20dos%20errores%20en%20los%20hechos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20contenido%20es%20m%EDnimo%20y%20tiene%20varios%20errores%20en%20los%20hechos.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20producto%20demuestra%20gran%20originalidad.%20Las%20ideas%20son%20creativas%20e%20ingeniosas.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20producto%20demuestra%20cierta%20originalidad.%20El%20trabajo%20demuestra%20el%20uso%20de%20nuevas%20ideas%20y%20de%20perspicacia.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Usa%20ideas%20de%20otras%20personas%20%28%20d%E1ndoles%20cr%E9dito%20%29%20pero%20no%20hay%20casi%20evidencia%20de%20ideas%20originales.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Usa%20ideas%20de%20otras%20personas%20pero%20no%20les%20da%20cr%E9dito.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22No%20hay%20faltas%20de%20ortograf%EDa%20ni%20errores%20gramaticales.%20Vocabulario%20muy%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Tres%20o%20menos%20faltas%20ortogr%E1ficas%20y/%20gramaticales.%20Vocabulario%20bastante%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Cuatro%20errores%20de%20ortograf%EDa%20y/o%20errores%20gramaticales.%20Vocabulario%20no%20demasiado%20apropiado%20para%20el%20tema%20y%20audiencia.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22M%E1s%20de%20cuatro%20errores%20ortogr%E1ficos%20y/o%20gramaticales.%20Vocabulario%20nada%20apropiado%20para%20el%20tema%20y%20la%20audiencia.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20mensaje%20es%20perfectamente%20comprensible%2C%20realizado%20en%20un%20volumen%20alto%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20mensaje%20es%20bastante%20comprensible%2C%20realizado%20en%20un%20volumen%20medio%2C%20entendible%20y%20con%20seguridad%20y%20confianza.%20La%20informaci%F3n%20es%20bastante%20clara%20y%20precisa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20demasiado%20comprensible.%20El%20volumen%20es%20excesivamente%20alto%20o%20apenas%20audible.%20No%20es%20realizado%20con%20demasiada%20seguridad%20y%20la%20informaci%F3n%20es%20ambigua.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22El%20mensaje%20no%20es%20nada%20comprensible.%20El%20volumen%20es%20inadecuado%20por%20exceso%20o%20defecto.%20No%20es%20realizado%20con%20ninguna%20seguridad%20y%20la%20informaci%F3n%20es%20transmitida%20ausente%20de%20claridad.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Diferentes%20tomas%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20etc.%2C%20proporcionando%20variedad%20al%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20enfoque%20fue%20excelente%20en%20todas%20sus%20partes.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%223-4%20tomas%20diferentes%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20etc.%2C%20proporcionando%20variedad%20al%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20enfoque%20fue%20excelente%20en%20casi%20todas%20sus%20partes.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%221-2%20tomas%20diferentes%20o%20%E1ngulos%20de%20c%E1mara%2C%20efectos%20de%20sonido%2C%20im%E1genes%2C%20proporcionando%20variedad%20en%20el%20v%EDdeo.%20La%20calidad%20no%20es%20muy%20buena%20pero%20el%20enfoque%20fue%20excelente%20en%20todas%20las%20partes%20del%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Poco%20esfuerzo%20para%20proporcionar%20variedad%20en%20el%20v%EDdeo.%20La%20calidad%20del%20v%EDdeo%20y%20el%20enfoque%20no%20es%20muy%20bueno.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Existe%20una%20excelente%20labor%20de%20planificaci%F3n%20con%20un%20gui%F3n%20previo%20y%20se%20percibe%20que%20hab%EDan%20hecho%20suficientes%20ensayos%20antes%20de%20la%20grabaci%F3n.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Se%20detecta%20que%20ha%20habido%20planificaci%F3n%20pero%20se%20detecta%20que%20en%20algunos%20momentos%20se%20improvisa%20con%20no%20demasiado%20acierto.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22No%20ha%20habido%20suficiente%20planificaci%F3n%20y%20se%20ha%20improvisado%20desafortunadamente%20en%20muchos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20ha%20habido%20planificaci%F3n%20alguna.%20El%20v%EDdeo%20ha%20sido%20totalmente%20improvisado.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22CEDEC%22%2C%22author-url%22%3A%22http%3A//cedec.intef.es/%22%2C%22license%22%3A%22CC-BY-SA%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar la elaboración de un vídeo</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777403690170-1j7l3p1nu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777403690170-1j7l3p1nu</odePageId>
+      <odeBlockId>block-1777403696147-ofscjmi35</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777403690170-1j7l3p1nu</odePageId>
+          <odeBlockId>block-1777403696147-ofscjmi35</odeBlockId>
+          <odeIdeviceId>idevice-1777403696146-ov1k2gbfa</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Ideas en Movimiento: La Filosofía Hoy</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
